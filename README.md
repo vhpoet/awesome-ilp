@@ -9,3 +9,13 @@ Pull requests are more then welcome.
 - [Github Interledger.js](https://github.com/interledgerjs)
 - [Twitter](https://twitter.com/Interledger)
 - [W3C group](https://www.w3.org/community/interledger)
+
+## Ledger Plugins
+
+- [Plain account (BTP; no settlement)](https://github.com/interledgerjs/ilp-plugin-btp)
+- [Plain asymmetric server (BTP; no settlement)](https://github.com/interledgerjs/ilp-plugin-mini-accounts)
+- [XRP Payment Channels](https://github.com/ripple/ilp-plugin-xrp-paychan)
+- XRP Asymmetric [Server](https://github.com/interledgerjs/ilp-plugin-xrp-asym-server)/[Client](https://github.com/interledgerjs/ilp-plugin-xrp-asym-client)
+- [Ethereum Payment Channels](https://github.com/emschwartz/ilp-plugin-ethereum-paychan)
+- [Bitcoin Payment Channels](https://github.com/interledgerjs/ilp-plugin-bitcoin-paychan)
+- [Stripe](https://github.com/interledgerjs/ilp-plugin-stripe)
