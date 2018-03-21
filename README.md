@@ -14,7 +14,7 @@ Pull requests are more then welcome.
 
 * [Using Moneyd to Join the ILP Testnet](https://medium.com/interledger-blog/using-moneyd-to-join-the-ilp-testnet-ba64bd42bb14) by [**@sharafian**](https://github.com/sharafian/)
 * [SPSP: Simple Payment Setup Protocol](https://medium.com/interledger-blog/spsp-simple-payment-setup-protocol-2028292e6925) by [**@sharafian**](https://github.com/sharafian/)
-* [https://medium.com/interledger-blog/http-ilp-paid-api-calls-with-interledger-fda53643a2eb](https://medium.com/interledger-blog/http-ilp-paid-api-calls-with-interledger-fda53643a2eb) by [**@sharafian**](https://github.com/sharafian/)
+* [HTTP-ILP: Paid API Calls with Interledger](https://medium.com/interledger-blog/http-ilp-paid-api-calls-with-interledger-fda53643a2eb) by [**@sharafian**](https://github.com/sharafian/)
 
 ## Implementations
 
